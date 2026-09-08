@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sp_corpus.txt
+.ipynb_checkpoints/
+*.pt
+*.ckpt
+wandb/

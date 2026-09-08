@@ -1,0 +1,1 @@
+pip freeze | grep -iE "datasets|sentencepiece|sacrebleu|rouge-score|torch" > requirements.txt
