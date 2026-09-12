@@ -109,8 +109,8 @@ A few qualitative examples (good and bad) along with the full results are in `re
 
 ## Links
 
-- Medium blog: [link]
-- LinkedIn post: [link]
+- Medium blog: [https://medium.com/@ahmadchohan065/we-built-an-urdu-question-generator-from-scratch-heres-what-actually-happened-263dddc756ad]
+- LinkedIn post: [https://lnkd.in/p/dSeD4p3U]
 
 ## Acknowledgments
 
