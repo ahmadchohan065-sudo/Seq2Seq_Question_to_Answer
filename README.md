@@ -105,7 +105,7 @@ A few qualitative examples (good and bad) along with the full results are in `re
 ## Team
 
 - **[Name 1]** — [[musfiraumar](https://github.com/musfiraumar)]
-- **[Name 2]** — []
+- **[Name 2]** — [ahmadchohan]https://github.com/ahmadchohan065-sudo
 
 ## Links
 
